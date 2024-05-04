@@ -1,56 +1,56 @@
-,year,month,day,holiday,New Year's Day,National Sovereignty and Children's Day,Labour Day,"Commemoration of Ataturk, Youth and Sports Day",Democracy and National Unity Day,Victory Day,Republic Day,Ramadan Feast,Ramadan Feast Holiday,Sacrifice Feast,Sacrifice Feast Holiday,National Sovereignty and Children's Day; Ramadan Feast Holiday
-0,2021,1,1,New Year's Day,1,0,0,0,0,0,0,0,0,0,0,0
-1,2021,4,23,National Sovereignty and Children's Day,0,1,0,0,0,0,0,0,0,0,0,0
-2,2021,5,1,Labour Day,0,0,1,0,0,0,0,0,0,0,0,0
-3,2021,5,19,"Commemoration of Ataturk, Youth and Sports Day",0,0,0,1,0,0,0,0,0,0,0,0
-4,2021,7,15,Democracy and National Unity Day,0,0,0,0,1,0,0,0,0,0,0,0
-5,2021,8,30,Victory Day,0,0,0,0,0,1,0,0,0,0,0,0
-6,2021,10,29,Republic Day,0,0,0,0,0,0,1,0,0,0,0,0
-7,2021,5,13,Ramadan Feast,0,0,0,0,0,0,0,1,0,0,0,0
-8,2021,5,14,Ramadan Feast Holiday,0,0,0,0,0,0,0,0,1,0,0,0
-9,2021,5,15,Ramadan Feast Holiday,0,0,0,0,0,0,0,0,1,0,0,0
-10,2021,7,20,Sacrifice Feast,0,0,0,0,0,0,0,0,0,1,0,0
-11,2021,7,21,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-12,2021,7,22,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-13,2021,7,23,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-14,2022,1,1,New Year's Day,1,0,0,0,0,0,0,0,0,0,0,0
-15,2022,4,23,National Sovereignty and Children's Day,0,1,0,0,0,0,0,0,0,0,0,0
-16,2022,5,1,Labour Day,0,0,1,0,0,0,0,0,0,0,0,0
-17,2022,5,19,"Commemoration of Ataturk, Youth and Sports Day",0,0,0,1,0,0,0,0,0,0,0,0
-18,2022,7,15,Democracy and National Unity Day,0,0,0,0,1,0,0,0,0,0,0,0
-19,2022,8,30,Victory Day,0,0,0,0,0,1,0,0,0,0,0,0
-20,2022,10,29,Republic Day,0,0,0,0,0,0,1,0,0,0,0,0
-21,2022,5,2,Ramadan Feast,0,0,0,0,0,0,0,1,0,0,0,0
-22,2022,5,3,Ramadan Feast Holiday,0,0,0,0,0,0,0,0,1,0,0,0
-23,2022,5,4,Ramadan Feast Holiday,0,0,0,0,0,0,0,0,1,0,0,0
-24,2022,7,9,Sacrifice Feast,0,0,0,0,0,0,0,0,0,1,0,0
-25,2022,7,10,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-26,2022,7,11,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-27,2022,7,12,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-28,2023,1,1,New Year's Day,1,0,0,0,0,0,0,0,0,0,0,0
-29,2023,4,23,National Sovereignty and Children's Day; Ramadan Feast Holiday,0,0,0,0,0,0,0,0,0,0,0,1
-30,2023,5,1,Labour Day,0,0,1,0,0,0,0,0,0,0,0,0
-31,2023,5,19,"Commemoration of Ataturk, Youth and Sports Day",0,0,0,1,0,0,0,0,0,0,0,0
-32,2023,7,15,Democracy and National Unity Day,0,0,0,0,1,0,0,0,0,0,0,0
-33,2023,8,30,Victory Day,0,0,0,0,0,1,0,0,0,0,0,0
-34,2023,10,29,Republic Day,0,0,0,0,0,0,1,0,0,0,0,0
-35,2023,4,21,Ramadan Feast,0,0,0,0,0,0,0,1,0,0,0,0
-36,2023,4,22,Ramadan Feast Holiday,0,0,0,0,0,0,0,0,1,0,0,0
-37,2023,6,28,Sacrifice Feast,0,0,0,0,0,0,0,0,0,1,0,0
-38,2023,6,29,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-39,2023,6,30,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-40,2023,7,1,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-41,2024,1,1,New Year's Day,1,0,0,0,0,0,0,0,0,0,0,0
-42,2024,4,23,National Sovereignty and Children's Day,0,1,0,0,0,0,0,0,0,0,0,0
-43,2024,5,1,Labour Day,0,0,1,0,0,0,0,0,0,0,0,0
-44,2024,5,19,"Commemoration of Ataturk, Youth and Sports Day",0,0,0,1,0,0,0,0,0,0,0,0
-45,2024,7,15,Democracy and National Unity Day,0,0,0,0,1,0,0,0,0,0,0,0
-46,2024,8,30,Victory Day,0,0,0,0,0,1,0,0,0,0,0,0
-47,2024,10,29,Republic Day,0,0,0,0,0,0,1,0,0,0,0,0
-48,2024,4,10,Ramadan Feast,0,0,0,0,0,0,0,1,0,0,0,0
-49,2024,4,11,Ramadan Feast Holiday,0,0,0,0,0,0,0,0,1,0,0,0
-50,2024,4,12,Ramadan Feast Holiday,0,0,0,0,0,0,0,0,1,0,0,0
-51,2024,6,16,Sacrifice Feast,0,0,0,0,0,0,0,0,0,1,0,0
-52,2024,6,17,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-53,2024,6,18,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
-54,2024,6,19,Sacrifice Feast Holiday,0,0,0,0,0,0,0,0,0,0,1,0
+,holiday,date,New Year's Day,National Sovereignty and Children's Day,Labour Day,"Commemoration of Ataturk, Youth and Sports Day",Democracy and National Unity Day,Victory Day,Republic Day,Ramadan Feast,Ramadan Feast Holiday,Sacrifice Feast,Sacrifice Feast Holiday,National Sovereignty and Children's Day; Ramadan Feast Holiday
+0,New Year's Day,2021-01-01,1,0,0,0,0,0,0,0,0,0,0,0
+1,National Sovereignty and Children's Day,2021-04-23,0,1,0,0,0,0,0,0,0,0,0,0
+2,Labour Day,2021-05-01,0,0,1,0,0,0,0,0,0,0,0,0
+3,"Commemoration of Ataturk, Youth and Sports Day",2021-05-19,0,0,0,1,0,0,0,0,0,0,0,0
+4,Democracy and National Unity Day,2021-07-15,0,0,0,0,1,0,0,0,0,0,0,0
+5,Victory Day,2021-08-30,0,0,0,0,0,1,0,0,0,0,0,0
+6,Republic Day,2021-10-29,0,0,0,0,0,0,1,0,0,0,0,0
+7,Ramadan Feast,2021-05-13,0,0,0,0,0,0,0,1,0,0,0,0
+8,Ramadan Feast Holiday,2021-05-14,0,0,0,0,0,0,0,0,1,0,0,0
+9,Ramadan Feast Holiday,2021-05-15,0,0,0,0,0,0,0,0,1,0,0,0
+10,Sacrifice Feast,2021-07-20,0,0,0,0,0,0,0,0,0,1,0,0
+11,Sacrifice Feast Holiday,2021-07-21,0,0,0,0,0,0,0,0,0,0,1,0
+12,Sacrifice Feast Holiday,2021-07-22,0,0,0,0,0,0,0,0,0,0,1,0
+13,Sacrifice Feast Holiday,2021-07-23,0,0,0,0,0,0,0,0,0,0,1,0
+14,New Year's Day,2022-01-01,1,0,0,0,0,0,0,0,0,0,0,0
+15,National Sovereignty and Children's Day,2022-04-23,0,1,0,0,0,0,0,0,0,0,0,0
+16,Labour Day,2022-05-01,0,0,1,0,0,0,0,0,0,0,0,0
+17,"Commemoration of Ataturk, Youth and Sports Day",2022-05-19,0,0,0,1,0,0,0,0,0,0,0,0
+18,Democracy and National Unity Day,2022-07-15,0,0,0,0,1,0,0,0,0,0,0,0
+19,Victory Day,2022-08-30,0,0,0,0,0,1,0,0,0,0,0,0
+20,Republic Day,2022-10-29,0,0,0,0,0,0,1,0,0,0,0,0
+21,Ramadan Feast,2022-05-02,0,0,0,0,0,0,0,1,0,0,0,0
+22,Ramadan Feast Holiday,2022-05-03,0,0,0,0,0,0,0,0,1,0,0,0
+23,Ramadan Feast Holiday,2022-05-04,0,0,0,0,0,0,0,0,1,0,0,0
+24,Sacrifice Feast,2022-07-09,0,0,0,0,0,0,0,0,0,1,0,0
+25,Sacrifice Feast Holiday,2022-07-10,0,0,0,0,0,0,0,0,0,0,1,0
+26,Sacrifice Feast Holiday,2022-07-11,0,0,0,0,0,0,0,0,0,0,1,0
+27,Sacrifice Feast Holiday,2022-07-12,0,0,0,0,0,0,0,0,0,0,1,0
+28,New Year's Day,2023-01-01,1,0,0,0,0,0,0,0,0,0,0,0
+29,National Sovereignty and Children's Day; Ramadan Feast Holiday,2023-04-23,0,0,0,0,0,0,0,0,0,0,0,1
+30,Labour Day,2023-05-01,0,0,1,0,0,0,0,0,0,0,0,0
+31,"Commemoration of Ataturk, Youth and Sports Day",2023-05-19,0,0,0,1,0,0,0,0,0,0,0,0
+32,Democracy and National Unity Day,2023-07-15,0,0,0,0,1,0,0,0,0,0,0,0
+33,Victory Day,2023-08-30,0,0,0,0,0,1,0,0,0,0,0,0
+34,Republic Day,2023-10-29,0,0,0,0,0,0,1,0,0,0,0,0
+35,Ramadan Feast,2023-04-21,0,0,0,0,0,0,0,1,0,0,0,0
+36,Ramadan Feast Holiday,2023-04-22,0,0,0,0,0,0,0,0,1,0,0,0
+37,Sacrifice Feast,2023-06-28,0,0,0,0,0,0,0,0,0,1,0,0
+38,Sacrifice Feast Holiday,2023-06-29,0,0,0,0,0,0,0,0,0,0,1,0
+39,Sacrifice Feast Holiday,2023-06-30,0,0,0,0,0,0,0,0,0,0,1,0
+40,Sacrifice Feast Holiday,2023-07-01,0,0,0,0,0,0,0,0,0,0,1,0
+41,New Year's Day,2024-01-01,1,0,0,0,0,0,0,0,0,0,0,0
+42,National Sovereignty and Children's Day,2024-04-23,0,1,0,0,0,0,0,0,0,0,0,0
+43,Labour Day,2024-05-01,0,0,1,0,0,0,0,0,0,0,0,0
+44,"Commemoration of Ataturk, Youth and Sports Day",2024-05-19,0,0,0,1,0,0,0,0,0,0,0,0
+45,Democracy and National Unity Day,2024-07-15,0,0,0,0,1,0,0,0,0,0,0,0
+46,Victory Day,2024-08-30,0,0,0,0,0,1,0,0,0,0,0,0
+47,Republic Day,2024-10-29,0,0,0,0,0,0,1,0,0,0,0,0
+48,Ramadan Feast,2024-04-10,0,0,0,0,0,0,0,1,0,0,0,0
+49,Ramadan Feast Holiday,2024-04-11,0,0,0,0,0,0,0,0,1,0,0,0
+50,Ramadan Feast Holiday,2024-04-12,0,0,0,0,0,0,0,0,1,0,0,0
+51,Sacrifice Feast,2024-06-16,0,0,0,0,0,0,0,0,0,1,0,0
+52,Sacrifice Feast Holiday,2024-06-17,0,0,0,0,0,0,0,0,0,0,1,0
+53,Sacrifice Feast Holiday,2024-06-18,0,0,0,0,0,0,0,0,0,0,1,0
+54,Sacrifice Feast Holiday,2024-06-19,0,0,0,0,0,0,0,0,0,0,1,0
