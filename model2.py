@@ -121,3 +121,4 @@ print(xgboost_preds)
 submission = sample_submission.copy()
 submission["bildirimsiz_sum"] = xgboost_preds
 submission.to_csv("ensemble_submission.csv", index=False)
+#model2.py
