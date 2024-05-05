@@ -37,10 +37,10 @@ train["tarih"] = pd.to_datetime(train["tarih"])
 weather["date"] = pd.to_datetime(weather["date"]) # Tarih sütununu datetime türüne dönüştürme
 train = pd.merge(train, weather, left_on=["tarih", "ilce"], right_on=["date", "name"], how="left")
 train = pd.merge(train, holidays, left_on=["tarih"], right_on=["Gün"], how="left")
-test["tarih"] = pd.to_datetime(test["tarih"])
+
 test = pd.merge(test, weather, left_on=["tarih", "ilce"], right_on=["date", "name"], how="left")
 test = pd.merge(test, holidays, left_on=["tarih"], right_on=["Gün"], how="left")
-
+test["tarih"] = pd.to_datetime(test["tarih"])
 # Özellikleri seçme
 features = ["t_2m:C", "effective_cloud_cover:p", "global_rad:W", "relative_humidity_2m:p",
             "wind_dir_10m:d", "wind_speed_10m:ms", "prob_precip_1h:p", "t_apparent:C", "Tatil Adı"]
