@@ -59,10 +59,15 @@ X_test['ilce'] = label_encoder.fit_transform(X_test['ilce'])
 
 # Parametre aralıklarının belirlenmesi
 param_grid = {
-    'learning_rate': [0.01, 0.1, 0.3],
-    'max_depth': [3, 5, 7],
-    'n_estimators': [50, 100, 200]
+    'learning_rate': [0.01, 0.05, 0.1, 0.3],
+    'max_depth': [3, 5, 7, 10],
+    'n_estimators': [50, 100, 200, 300],
+    'subsample': [0.6, 0.8, 1.0],
+    'colsample_bytree': [0.6, 0.8, 1.0],
+    'gamma': [0, 0.1, 0.3]
 }
+
+
 # Model oluşturma
 xgb = XGBRegressor()
 
